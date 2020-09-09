@@ -1,0 +1,7 @@
+.media-card{
+    box-shadow: 10px 10px 10px 0px lightgrey;
+    padding: 5px;
+    margin: 5px;
+    background: rgb(138, 137, 137);
+    border-radius:10px
+}
